@@ -5,7 +5,7 @@ On this github you will find projects related to my research as well as some ver
 
 ### HaploDynamics
 This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with your own machine learning pipeline. 
-$$\mathsf{HaploDXGenerativeFunction}(\mathsf{YourMutationModel}(x_{1},x_{2},\dots,x_{n})) \longrightarrow \\mathrm{Genomic Data with your mutation/positional model}$$
+$$\mathsf{HaploDXGenerativeFunction}(\mathsf{YourMutationModel}(x_{1},x_{2},\dots,x_{n})) \longrightarrow \textrm{Genomic Data with your mutation/positional model}$$
 
 ### Pedigrad
 This is a software I have been working on for the last few years. I intend to put out a new version soon, with linear algebra to find combinatorial genetic effects from variant call and phenotype data.
