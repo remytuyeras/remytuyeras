@@ -14,7 +14,7 @@ So far, users have control on:
 - genetic position values
 
 ### [Pedigrad](https://github.com/remytuyeras/pedigrad-library)
-This is a software I have been working on for the last five years. I intend to publish a new version soon, with some semigroup linear algebra features that you can use to find combinatorial genetic effects from variant call and phenotype data.
+This is a software I have been working on for the last five years. I intend to publish a new version soon, with some semigroup linear algebra features that you can use to find combinatorial genetic effects from variant call and phenotype data. On the long term, the ```Pedigrad``` library will complete the simulation of the ```HploDynamiccs``` library with phenotype simulations.
 
 ### Homomorphic Encryption
 I intend to add a project on a new model for Homomorphic Encryption. More to come later this year.
