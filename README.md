@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello there!
+On this github you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
-<!--
-**remytuyeras/remytuyeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects I currently focus on
 
-Here are some ideas to get you started:
+### HaploDynamics
+This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with your own machine learning pipeline. 
+$$\mathsf{HaploDX\_Generative\_Function}(\mathsf{Your\_Mutation\_Model}(x_{1},x_{2},\dots,x_{n}))$$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pedigrad
+This is a software I have been working on for the last few years. I intend to put out a new version soon, with linear algebra to find combinatorial genetic effects from variant call and phenotype data.
+
+### Homomorphic Encryption
+I intend to add a project on a new model for Homomorphic Encryption. More to come later this year.
+
+
