@@ -8,7 +8,7 @@ This is a cloud-native software framework for fast generation of genomic data si
 $$\mathsf{HaploDXGenerativeFunction}(\mathsf{YourMutationModel}(x_{1},x_{2},\dots,x_{n})) \longrightarrow \textrm{Genomic Data with your mutation/positional model}$$
 
 ### Pedigrad
-This is a software I have been working on for the last few years. I intend to put out a new version soon, with linear algebra to find combinatorial genetic effects from variant call and phenotype data.
+This is a software I have been working on for the last five years. I intend to put out a new version soon, with linear algebra to find combinatorial genetic effects from variant call and phenotype data.
 
 ### Homomorphic Encryption
 I intend to add a project on a new model for Homomorphic Encryption. More to come later this year.
