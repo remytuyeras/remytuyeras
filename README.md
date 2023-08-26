@@ -1,7 +1,7 @@
 ## Hello there!
 On this github you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
-## Projects I currently focus on
+## What I currently focus on
 
 ### HaploDynamics
 This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with your own machine learning pipeline. 
