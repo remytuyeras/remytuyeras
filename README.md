@@ -9,7 +9,7 @@ This is a cloud-native software framework for fast generation of genomic data si
 $$\begin{array}{ccccccc}
 \mathsf{User}&&\mathop{\longrightarrow}\limits^{\fbox{1}}&&(x_{1},x_{2},\dots,x_{n})&&\\
 ^{\fbox{2}}\downarrow&&&&\downarrow&&\\
-(x_{1},x_{2},\dots,x_{n}) &\longrightarrow& \fbox{$\mathsf{UserModel}$} &\longrightarrow& \fbox{$\mathsf{HaploModel}$}& \longrightarrow &\fbox{$\mathsf{VCFData}$}\\
+(x_{1},x_{2},\dots,x_{n}) &\longrightarrow& \fbox{$\mathsf{UserModel}$} &\longrightarrow& \fbox{$\mathsf{HaploDXModel}$}& \longrightarrow &\fbox{$\mathsf{VCFData}$}\\
 \end{array}$$
 
 So far, users have control on:
