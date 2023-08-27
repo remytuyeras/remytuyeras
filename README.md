@@ -4,9 +4,13 @@ On this github you will find projects related to my research as well as some ver
 ## What I currently focus on
 
 ### [HaploDynamics](https://github.com/remytuyeras/HaploDynamics)
-This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with your own machine learning pipeline. 
+This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with the user's models for specific mutation profiles or genetic positioning. 
 
-$$(x_{1},x_{2},\dots,x_{n}) \longrightarrow \fbox{$\mathsf{YourMutationModel}$} \longrightarrow \fbox{$\mathsf{HaploDXGenerativeFunction}$} \longrightarrow \fbox{$\mathsf{VCFData}$}$$
+$$\begin{array}{ccccccc}
+\mathsf{User}&&\mathop{\longrightarrow}\limits^{\fbox{1}}&&(x_{1},x_{2},\dots,x_{n})&&\\
+^{\fbox{2}}\downarrow&&&&\downarrow&&\\
+(x_{1},x_{2},\dots,x_{n}) &\longrightarrow& \fbox{$\mathsf{UserModel}$} &\longrightarrow& \fbox{$\mathsf{HaploModel}$}& \longrightarrow &\fbox{$\mathsf{VCFData}$}\\
+\end{array}$$
 
 So far, users have control on:
 - mutation rates
