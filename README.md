@@ -43,9 +43,11 @@ $$\begin{array}{ccccccc}
 \end{array}$$
 
 So far, users have control on:
-- mutation rates
-- lengths of LD blocks
-- genetic position values
+  1. mutation rates
+  2. lengths of LD blocks
+  3. genetic position values
+
+In the near future, the ```HaploDynamics.Framework``` module will include an arithmetic to manipulate the generated VCF files (or any other VCF file).
 
 <br>
 
@@ -54,7 +56,17 @@ So far, users have control on:
   <h2 align="center"><a href="https://github.com/remytuyeras/pedigrad-library">Pedigrad Library</a></h2>
 </p>
 
-This is a software I have been working on for the last five years. I intend to publish a new version soon, with some semigroup linear algebra features that you can use to find combinatorial genetic effects from variant call and phenotype data. On the long term, the ```Pedigrad``` library will complete the simulations of the ```HaploDynamics``` library with phenotype simulations.
+This is a software I have been working on for the last five years. I intend to publish a new version soon, with some semigroup linear algebra features that you can use to find combinatorial genetic effects from variant call and phenotype data. Overlal,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
+
+$$\begin{array}{c|c|c|c}
+\textbf{A pedigrad} & \textbf{Learning occuring on genetic segments} & \to & \textbf{Algebraic analyses on haplotypes / phenotypes}\\
+\hline
+&&&\\
+P:&(\bullet\bullet\dots\bullet\bullet)\dots(\bullet\bullet\dots\bullet\bullet) & \mapsto & \lbrace\sum_i x_i = \sum_i y_i~|~x_i,y_i\textrm{ haplotypes}\rbrace\\
+&&&\\
+\end{array}$$
+
+On the long term, the ```Pedigrad``` library will also be used to complete the simulations of the ```HaploDynamics``` library with complex genomic architecture generations (e.g. variant interactions, complex phenotypes, environment modeling etc.).
 
 <br>
 
