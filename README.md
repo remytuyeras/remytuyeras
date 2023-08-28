@@ -47,7 +47,7 @@ So far, users have control on:
   2. lengths of LD blocks
   3. genetic position values
 
-In the near future, the ```HaploDynamics.Framework``` module will include an arithmetic to manipulate the generated VCF files (or any other VCF file).
+In the near future, the ```HaploDynamics.Framework``` module will include an arithmetic to manipulate the generated VCF files (or in fact any VCF file).
 
 <br>
 
