@@ -9,6 +9,13 @@ On this Github page you will find projects related to my research as well as som
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rtuyeras?label=%40Rtuyeras&style=for-the-badge&logo=X&labelColor=black&color=grey)
 [![Website](https://img.shields.io/website?up_message=%3C%3C&up_color=blue&url=https%3A%2F%2Fhub.docker.com%2Fu%2Frtuyeras&style=for-the-badge&logo=Docker&label=Docker%20Repo)](https://hub.docker.com/u/rtuyeras)
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 
