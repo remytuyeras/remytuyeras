@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="300px" src="img/logo.png" />
+  <img width="300px" src="img/logo.png" />&nbsp;&nbsp;&nbsp;
+  <img width="270px" src="img/haplo-logo.png" />
 </p>
 
 ## Hello there!
