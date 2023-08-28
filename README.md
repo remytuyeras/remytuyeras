@@ -34,6 +34,9 @@ Current challenges include the **privacy of genomic data** and the lack of flexi
   <h2 align="center"><a href="https://github.com/remytuyeras/HaploDynamics">HaploDynamics</a></h2>
 </p>
 
+![GitHub issues](https://img.shields.io/github/issues-raw/remytuyeras/HaploDynamics?style=for-the-badge&logo=Github&color=purple)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/remytuyeras/HaploDynamics?style=for-the-badge&logo=Github&color=purple)
+
 This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with the user's models for specific mutation profiles or genetic positioning. 
 
 $$\begin{array}{ccccccc}
@@ -57,6 +60,9 @@ In the near future, the ```HaploDynamics.Framework``` module will include an ari
   <img width="150px" src="img/logo.png"/>
   <h2 align="center"><a href="https://github.com/remytuyeras/pedigrad-library">Pedigrad Library</a></h2>
 </p>
+
+![GitHub issues](https://img.shields.io/github/issues-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
 
 I have been working on this software for the last five years to fully implemented the framework developed in <a href="https://arxiv.org/abs/1708.05255">CTG</a>, <a href="https://arxiv.org/abs/1805.07002">CTGI</a> \& <a href="https://arxiv.org/abs/1805.07004">CTGII</a> . I intend to publish a new version of this framework **soon**, inclduing new semigroup-based linear algebra features to find combinatorial genetic effects from variant call and phenotype data. Overall,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
 
