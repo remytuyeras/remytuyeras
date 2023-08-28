@@ -3,7 +3,7 @@
   <h1 align="center">Hello there!</a></h1>
 </p>
 
-On this Github page you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
+This GitHub page contains projects related to my research, as well as some older projects that I have archived for reference.
 
 [![Website](https://img.shields.io/website?up_color=olivegreen&url=https%3A%2F%2Fwww.normalesup.org%2F~tuyeras%2F&style=for-the-badge&label=Webpage)](https://www.normalesup.org/~tuyeras/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rtuyeras?label=%40Rtuyeras&style=for-the-badge&logo=X&labelColor=black&color=grey)
