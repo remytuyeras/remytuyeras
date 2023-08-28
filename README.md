@@ -61,7 +61,10 @@ In the near future, the ```HaploDynamics.Framework``` module will include an ari
 I have been working on this software for the last five years to fully implemented the framework developed in <a href="https://arxiv.org/abs/1708.05255">CTG</a>, <a href="https://arxiv.org/abs/1805.07002">CTGI</a> \& <a href="https://arxiv.org/abs/1805.07004">CTGII</a> . I intend to publish a new version of this framework **soon**, inclduing new semigroup-based linear algebra features to find combinatorial genetic effects from variant call and phenotype data. Overall,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
 
 $$\begin{array}{c|c|c|c}
-\textbf{A pedigrad} & \textbf{Learning occuring on genetic segments} & \to & \textbf{Algebraic analyses on haplotypes / phenotypes}\\
+\textbf{A pedigrad} & \textbf{A segment} & \to & \textbf{A semigroup of haplotypes}\\
+\hline
+\textit{the framework provided} & \textit{where learning events occur} & \to & \textit{where algebraic operations are used}\\
+\textit{by the library} & \textit{to find genetic interactions} & \to & \textit{to guide the learning}\\
 \hline
 &&&\\
 P:&(\bullet\bullet\dots\bullet\bullet)\dots(\bullet\bullet\dots\bullet\bullet) & \mapsto & \lbrace\sum_i x_i = \sum_i y_i~|~x_i,y_i\textrm{ haplotypes}\rbrace\\
