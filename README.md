@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300px" src="img/logo.png" />
+</p>
+
 ## Hello there!
 On this github you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
