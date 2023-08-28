@@ -5,7 +5,7 @@
 
 On this Github page you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.normalesup.org%2F~tuyeras%2F&style=for-the-badge&link=https%3A%2F%2Fwww.normalesup.org%2F~tuyeras%2F)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.normalesup.org%2F~tuyeras%2F&style=for-the-badge&link=https%3A%2F%2Fwww.normalesup.org%2F~tuyeras%2F)](https://www.normalesup.org/~tuyeras/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rtuyeras?style=for-the-badge&logo=X&color=black)
 
 
