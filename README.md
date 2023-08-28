@@ -3,9 +3,11 @@
 </p>
 
 ## Hello there!
-On this github you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
+On this Github page you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
-## What I currently focus on
+## What I currently work on
+I strongly believe that the future of genomics will depend on our ability to go beyond traditional approaches and adopt a more holistic view of complex problems. 
+Current challenges include the **privacy of genomic data** and the lack of flexible tools for studying **complex genetic effects**. To address these challenges, I have developed several Python libraries that allow researchers to simulate realistic variant call data and study complex genetic effects using novel analytical techniques from post-modern algebra.
 
 ### [HaploDynamics](https://github.com/remytuyeras/HaploDynamics)
 This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with the user's models for specific mutation profiles or genetic positioning. 
