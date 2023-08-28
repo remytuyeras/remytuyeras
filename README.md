@@ -36,7 +36,6 @@ So far, users have control on:
 - mutation rates
 - lengths of LD blocks
 - genetic position values
-<br>
 
 <p align="center">
   <img width="150px" src="img/logo.png"/>
@@ -45,7 +44,6 @@ So far, users have control on:
 
 This is a software I have been working on for the last five years. I intend to publish a new version soon, with some semigroup linear algebra features that you can use to find combinatorial genetic effects from variant call and phenotype data. On the long term, the ```Pedigrad``` library will complete the simulations of the ```HaploDynamics``` library with phenotype simulations.
 
-<br>
 <p align="center">
   <img width="110px" src="img/logo-fhe.png"/>
   <h2 align="center">Homomorphic encryption</h2>
