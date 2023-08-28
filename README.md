@@ -1,8 +1,9 @@
 <p align="center">
   <img width="300px" src="img/logo.png" />
   <h1 align="center">Hello there!</a></h1>
-  <p align="center">On this Github page you will find projects related to my research as well as some very old school projects that I put here for storage purposes.</p>
 </p>
+
+On this Github page you will find projects related to my research as well as some very old school projects that I put here for storage purposes.
 
 <p align="center">
   <h1 align="center">What I currently work on</h1>
