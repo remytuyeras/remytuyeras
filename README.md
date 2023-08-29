@@ -1,6 +1,6 @@
 <p align="center">
   <img width="300px" src="img/logo.png" />
-  <h1 align="center">Hello there!</a></h1>
+  <h1 align="center">Welcome!</a></h1>
 </p>
 
 This GitHub page contains projects related to my research, as well as some older projects that I have archived for reference.
