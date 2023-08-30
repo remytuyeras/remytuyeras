@@ -66,7 +66,7 @@ In the near future, the ```HaploDynamics.Framework``` module will include an ari
 ![GitHub issues](https://img.shields.io/github/issues-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
 
-I have been working on this software for the last five years to fully implemented the framework developed in <a href="https://arxiv.org/abs/1708.05255">CTG</a>, <a href="https://arxiv.org/abs/1805.07002">CTGI</a> \& <a href="https://arxiv.org/abs/1805.07004">CTGII</a> . I intend to publish a new version of this framework **soon**, inclduing new semigroup-based linear algebra features to find combinatorial genetic effects from variant call and phenotype data. Overall,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
+I have been working on this software for the last five years to fully implement the framework developed in <a href="https://arxiv.org/abs/1708.05255">CTG</a>, <a href="https://arxiv.org/abs/1805.07002">CTGI</a> \& <a href="https://arxiv.org/abs/1805.07004">CTGII</a> . I intend to publish a new version of this framework **soon**, inclduing new semigroup-based linear algebra features to find combinatorial genetic effects from variant call and phenotype data. Overall,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
 
 $$\begin{array}{c|c|c|c}
 \textbf{A pedigrad} & \textbf{A segment} & \to & \textbf{A semigroup of haplotypes}\\
