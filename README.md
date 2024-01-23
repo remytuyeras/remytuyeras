@@ -84,8 +84,8 @@ On the long term, the ```Pedigrad``` library will also be used to complete the s
 <br>
 
 <p align="center">
-  <img width="110px" src="img/logo-fhe.png"/>
-  <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE scheme)</a>a></h2>
+  <h2 align="center">$Fx \otimes y) = F(x) \otimes F(y) </h2>
+  <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE scheme)</a></h2>
 </p>
 
 This project constains the code developed for a paper detailing the design of a fully homomorphic encryption scheme. The outcomes of this work bear significance in the domains of machine learning and privacy computing.
