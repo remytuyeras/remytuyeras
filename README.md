@@ -90,6 +90,6 @@ On the long term, the ```Pedigrad``` library will also be used to complete the s
   <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE scheme)</a></h2>
 </p>
 
-This project constains the code developed for a paper detailing the design of a fully homomorphic encryption scheme. The outcomes of this work bear significance in the domains of machine learning and privacy computing.
+This project constains the code developed for [a paper](https://arxiv.org/abs/2401.13255) detailing the design of a fully homomorphic encryption scheme. The outcomes of this work bear significance in the domains of machine learning and privacy computing.
 
 
