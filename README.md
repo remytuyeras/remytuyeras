@@ -84,9 +84,7 @@ On the long term, the ```Pedigrad``` library will also be used to complete the s
 <br>
 
 <p align="center">
-  <strong>
-    $E(x)E(y) = E(xy)$
-  </strong>
+  <img width="130px" src="img/logo-fhe.png"/>
   <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE scheme)</a></h2>
 </p>
 
