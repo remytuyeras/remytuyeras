@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="img/logo.png" />
+  <img width="500px" src="img/logo-fhe-rounded.png" />
   <h1 align="center">Welcome!</a></h1>
 </p>
 
@@ -37,9 +37,13 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 <br>
 
 <p align="center">
+  <img width="200px" src="img/twofish_rounded_border.png"/>
+  <p align="center"><img src="img/logo_roboto_black.png" width="250px" /></p>
+</p>
+<!-- <p align="center">
   <img width="250px" src="img/logo-fhe.png"/>
   <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE Scheme)</a></h2>
-</p>
+</p> -->
 
 [![PyPI - Version](https://img.shields.io/pypi/v/pyaces)](https://pypi.org/project/pyaces/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyaces)](https://pypi.org/project/pyaces/)
