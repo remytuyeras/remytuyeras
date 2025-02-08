@@ -33,4 +33,4 @@ def round_corners_with_border(input_path, output_path, radius=50, border_size=10
     bordered_img.save(output_path, format="PNG")
 
 # Usage
-round_corners_with_border("img/logo-fhe.png", "img/logo-fhe-rounded.png", radius=100, border_size=10)
+round_corners_with_border("img/logo-fhe.png", "img/logo-fhe-rounded.png", radius=100, border_size=0)
