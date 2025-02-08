@@ -23,71 +23,48 @@ This GitHub page contains projects related to my research, as well as some older
 <br>
 
 <p align="center">
-  <h1 align="center">What I currently work on</h1>
+  <h1 align="center">What I'm Currently Working On</h1>
 </p>
 
-I strongly believe that the future of genomics will depend on our ability to go beyond traditional approaches and adopt a more holistic view of complex problems. 
-Current challenges include the **privacy of genomic data** and the lack of flexible tools for studying **complex genetic effects**. To address these challenges, I have developed several Python libraries that allow researchers to simulate realistic variant call data and study complex genetic effects using novel analytical techniques from post-modern algebra.
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/remytuyeras)](https://github.com/remytuyeras)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/RTuyeras)](https://x.com/Rtuyeras)
 
-<br>
+I am currently focused full-time on the development of **PyACES**, a fully homomorphic encryption (FHE) scheme. In the future, I plan to use this scheme for implementing **secure machine learning models**, particularly in **natural language processing (NLP)**.  
 
-<p align="center">
-  <img width="130px" src="img/haplo-logo.png"/>
-  <h2 align="center"><a href="https://github.com/remytuyeras/HaploDynamics">HaploDynamics</a></h2>
-</p>
+As the project evolves, I plan to join **GitHub Sponsors** to allow those who find value in this work to support its continued development. If you’re interested in **advancing FHE research and its applications**, your future support—whether through sponsorships, contributions, or discussions—would be greatly appreciated! :rocket:
 
-![GitHub issues](https://img.shields.io/github/issues-raw/remytuyeras/HaploDynamics?style=for-the-badge&logo=Github&color=purple)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/remytuyeras/HaploDynamics?style=for-the-badge&logo=Github&color=purple)
-
-This is a cloud-native software framework for fast generation of genomic data simulations. One of the features I am currently working on is to make this project composable with the user's models for specific mutation profiles or genetic positioning. 
-
-$$\begin{array}{ccccccc}
-\mathsf{User}&&\mathop{\longrightarrow}\limits^{\fbox{1}}&&(x_{1},x_{2},\dots,x_{n})&&\\
-^{\fbox{2}}\downarrow&&&&\downarrow&&\\
-(x_{1},x_{2},\dots,x_{n}) &\longrightarrow& \fbox{$\mathsf{UserModel}$} &\longrightarrow& \fbox{$\mathsf{HaploDXModel}$}& \longrightarrow &\fbox{$\mathsf{VCFData}$}\\
-\end{array}$$
-
-So far, users have control on:
-  1. population-specific LD decay profiles
-  2. bottleneck parameters
-  3. allele frequency spectra (and/or mutation rate profiles)
-  4. LD block lengths
-  5. genetic position values
-
-In the near future, the ```HaploDynamics.Framework``` module will include an arithmetic to manipulate the generated VCF files (or in fact any VCF file).
-
-<br>
-
-<p align="center">
-  <img width="150px" src="img/logo.png"/>
-  <h2 align="center"><a href="https://github.com/remytuyeras/pedigrad-library">Pedigrad Library</a></h2>
-</p>
-
-![GitHub issues](https://img.shields.io/github/issues-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/remytuyeras/pedigrad-library?style=for-the-badge&logo=Github&color=purple)
-
-I have been working on this software for the last five years to fully implement the framework developed in <a href="https://arxiv.org/abs/1708.05255">CTG</a>, <a href="https://arxiv.org/abs/1805.07002">CTGI</a> \& <a href="https://arxiv.org/abs/1805.07004">CTGII</a> . I intend to publish a new version of this framework **soon**, inclduing new semigroup-based linear algebra features to find combinatorial genetic effects from variant call and phenotype data. Overall,  the ```Pedigrad``` library will provide a new paradigm for doing machine learning on genomic data and learn combinatorial relationships.
-
-$$\begin{array}{c|c|c|c}
-\textbf{A pedigrad} & \textbf{A segment} & \to & \textbf{A semigroup of haplotypes}\\
-\hline
-\textit{the framework provided} & \textit{where learning events occur} & \to & \textit{where algebraic operations are used}\\
-\textit{by the library} & \textit{to find genetic interactions} & \to & \textit{to guide the learning}\\
-\hline
-&&&\\
-P:&(\bullet\bullet\dots\bullet\bullet)\dots(\bullet\bullet\dots\bullet\bullet) & \mapsto & \lbrace\sum_i x_i = \sum_i y_i~|~x_i,y_i\textrm{ haplotypes}\rbrace\\
-&&&\\
-\end{array}$$
-
-On the long term, the ```Pedigrad``` library will also be used to complete the simulations of the ```HaploDynamics``` library with complex genomic architecture generations (e.g. variant interactions, complex phenotypes, environment modeling etc.).
 
 <br>
 
 <p align="center">
   <img width="200px" src="img/logo-fhe.png"/>
-  <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE scheme)</a></h2>
+  <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE Scheme)</a></h2>
 </p>
 
-This project contains the code developed for [a paper](https://arxiv.org/abs/2401.13255) detailing the design of a fully homomorphic encryption scheme. The outcomes of this work bear significance in the domains of machine learning and privacy computing.
+[![PyPI - Version](https://img.shields.io/pypi/v/pyaces)](https://pypi.org/project/pyaces/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyaces)](https://pypi.org/project/pyaces/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/remytuyeras/aces)](https://github.com/remytuyeras/aces/tree/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/remytuyeras/aces)](https://github.com/remytuyeras/aces/tree/main)
+
+[![CodeFactor Grade (with branch)](https://img.shields.io/codefactor/grade/github/remytuyeras/aces/main?label=code%20quality%20(main))](https://github.com/remytuyeras/aces/tree/main)
+[![CodeFactor Grade (with branch)](https://img.shields.io/codefactor/grade/github/remytuyeras/aces/dev?label=code%20quality%20(dev))](https://github.com/remytuyeras/aces/tree/dev)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyaces)](https://pypi.org/project/pyaces/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/remytuyeras/aces)](https://github.com/remytuyeras/aces/tree/main)
+
+This repository contains the **Python implementation of ACES**, a fully homomorphic encryption scheme introduced in [_Constructing a Fully Homomorphic Encryption Scheme with the Yoneda Lemma_](https://arxiv.org/abs/2401.13255).
+
+I am actively working on a **developer guide** for the new codebase (see the [`dev`](https://github.com/remytuyeras/aces/tree/dev) branch).  
+
+Looking ahead, I aim to introduce the following enhancements _(subject to funding or sponsorship)_:
+
+### :rocket: **Planned Enhancements**
+- [ ] :file_folder: Develop a function for generating cryptographic data with an **efficient locator-director database (RAM)**.  
+- [ ] :floppy_disk: Enable **local storage of cryptographic data (ROM)** and implement **secure key management**.  
+- [ ] :lock: Implement **file encryption (ROM)**.  
+- [ ] :abacus: Support **complex data types** (`Int8`, `Int16`, `Int32`, `String`, `Bool`) and their arithmetic operations.  
+- [ ] :zap: Optimize for **CPU & GPU performance**:  
+  - [ ] :gear: Utilize **C, C++, or `ctypes`** for **efficient polynomial and ciphertext operations**.  
+  - [ ] :video_game: Implement **GPU acceleration using CUDA**.  
+
 
 
