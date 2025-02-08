@@ -31,7 +31,7 @@ This GitHub page contains projects related to my research, as well as some older
 
 I am currently focused full-time on the development of **PyACES**, a fully homomorphic encryption (FHE) scheme. In the future, I plan to use this scheme for implementing **secure machine learning models**, particularly in **natural language processing (NLP)**.  
 
-As the project evolves, I plan to join **GitHub Sponsors** to allow those who find value in this work to support its continued development. If you’re interested in **advancing FHE research and its applications**, your future support—whether through sponsorships, contributions, or discussions—would be greatly appreciated! :rocket:
+As the project evolves, I plan to join **GitHub Sponsors** to allow those who find value in this work to support its continued development. If you’re interested in **advancing FHE research and its applications**, your future support, whether through sponsorships, contributions, or discussions, would be greatly appreciated! :rocket:
 
 
 <br>
