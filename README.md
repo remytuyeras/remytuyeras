@@ -37,7 +37,7 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 <br>
 
 <p align="center">
-  <img width="200px" src="img/twofish_rounded_border.png"/>
+  <a href="https://github.com/remytuyeras/aces"><img width="200px" src="img/twofish_rounded_border.png"/></a>
   <p align="center"><a href="https://github.com/remytuyeras/aces"><img src="img/logo_roboto_black.png" width="250px" /></a></p>
 </p>
 <!-- <p align="center">
