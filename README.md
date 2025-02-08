@@ -37,7 +37,7 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 <br>
 
 <p align="center">
-  <img width="200px" src="img/logo-fhe.png"/>
+  <img width="250px" src="img/logo-fhe.png"/>
   <h2 align="center"><a href="https://github.com/remytuyeras/aces">ACES (FHE Scheme)</a></h2>
 </p>
 
