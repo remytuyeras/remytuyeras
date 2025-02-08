@@ -63,11 +63,17 @@ Looking ahead, I aim to introduce the following enhancements _(subject to fundin
 
 ### :rocket: **Planned Enhancements**
 - [ ] :file_folder: Develop a function for generating cryptographic data with an **efficient locator-director database (RAM)**.  
+
 - [ ] :floppy_disk: Enable **local storage of cryptographic data (ROM)** and implement **secure key management**.  
+
 - [ ] :lock: Implement **file encryption (ROM)**.  
+
 - [ ] :abacus: Support **complex data types** (`Int8`, `Int16`, `Int32`, `String`, `Bool`) and their arithmetic operations.  
+
 - [ ] :zap: Optimize for **CPU & GPU performance**:  
+
   - [ ] :gear: Utilize **C, C++, or `ctypes`** for **efficient polynomial and ciphertext operations**.  
+  
   - [ ] :video_game: Implement **GPU acceleration using CUDA**.  
 
 
