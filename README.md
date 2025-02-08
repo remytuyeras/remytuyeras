@@ -38,7 +38,7 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 
 <p align="center">
   <img width="200px" src="img/twofish_rounded_border.png"/>
-  <p align="center"><img src="img/logo_roboto_black.png" width="250px" /></p>
+  <p align="center"><a href="https://github.com/remytuyeras/aces"><img src="img/logo_roboto_black.png" width="250px" /></a></p>
 </p>
 <!-- <p align="center">
   <img width="250px" src="img/logo-fhe.png"/>
@@ -55,7 +55,7 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/pyaces)](https://pypi.org/project/pyaces/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/remytuyeras/aces)](https://github.com/remytuyeras/aces/tree/main)
 
-This repository contains the **Python implementation of ACES**, a fully homomorphic encryption scheme introduced in [_Constructing a Fully Homomorphic Encryption Scheme with the Yoneda Lemma_](https://arxiv.org/abs/2401.13255).
+This repository contains the **Python implementation of ACES**, a fully homomorphic encryption scheme introduced in the research paper [_"Constructing a Fully Homomorphic Encryption Scheme with the Yoneda Lemma"_](https://arxiv.org/abs/2401.13255).
 
 I am actively working on a **developer guide** for the new codebase (see the [`dev`](https://github.com/remytuyeras/aces/tree/dev) branch).  
 
