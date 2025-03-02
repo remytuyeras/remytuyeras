@@ -76,7 +76,7 @@ I am actively working on a **developer guide** for the new codebase (see the [`d
 
 Looking ahead, I aim to introduce the following enhancements _(subject to funding or sponsorship)_:
 
-### :rocket: **Planned Enhancements**
+### :rocket: **Planned enhancements**
 - [ ] :file_folder: Develop a function for generating cryptographic data with an **efficient locator-director database (RAM)**.  
 
 - [ ] :floppy_disk: Enable **local storage of cryptographic data (ROM)** and implement **secure key management**.  
@@ -100,12 +100,16 @@ Looking ahead, I aim to introduce the following enhancements _(subject to fundin
 
 Inspired by biological encoding principles, ILM represents language with a structured set of 64 base tokens, akin to DNA's 64 codons. By reducing reliance on memorized mappings and emphasizing hierarchy, ILM provides a foundation for more interpretable and efficient language models.
 
-### :star: **Current Focus**
+### :star: **Current focus**
 - [ ] Developing a **hierarchical tokenizer** that structures words into multi-level representations.
+
 - [ ] Providing a **lightweight and flexible** alternative to existing tokenization libraries.
+
 - [ ] Exploring applications in **language model training and structured learning**.
 
-### :rocket: **Future Goals**
+### :rocket: **Future goals**
 - [ ] Expanding ILM into a **complete language model toolkit** with tools for **training, evaluating, and deploying models**.
+
 - [ ] Refining the **hierarchical tokenization approach** to improve efficiency and interpretability.
+
 - [ ] Investigating **theoretical foundations and potential applications** in structured NLP models.
