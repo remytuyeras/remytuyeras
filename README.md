@@ -96,6 +96,10 @@ Looking ahead, I aim to introduce the following enhancements _(subject to fundin
 <p align="center">
   <a href="https://github.com/remytuyeras/ilm"><img width="400px" src="img/logo-ilm-georgia.png"/></a></p>
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/remytuyeras/ilm)](https://github.com/remytuyeras/ilm/tree/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/remytuyeras/ilm)](https://github.com/remytuyeras/ilm/tree/main)
+[![GitHub Repo stars](https://img.shields.io/github/stars/remytuyeras/ilm)](https://github.com/remytuyeras/ilm/tree/main)
+
 **Intuitionistic Language Models (ILM)** is a toolkit for structured language models using hierarchical tokenization. Instead of large predefined vocabularies, ILM organizes tokens into multiple levels, capturing both local and global patterns.
 
 Inspired by biological encoding principles, ILM represents language with a structured set of 64 base tokens, akin to DNA's 64 codons. By reducing reliance on memorized mappings and emphasizing hierarchy, ILM provides a foundation for more interpretable and efficient language models.
