@@ -42,9 +42,9 @@ As the project evolves, I plan to join **GitHub Sponsors** to allow those who fi
 
 I am currently focused full-time on the development of **PyACES**, a fully homomorphic encryption (FHE) scheme. In the future, I plan to use this scheme for implementing **secure machine learning models**, particularly in **natural language processing (NLP)**.  
 
-Alongside this, I am developing **Intuitionistic Language Models (ILM)**, a toolkit for language models based on **hierarchical tokenization**. ILM offers a structured alternative to standard tokenization by organizing tokens into multiple levels. The current focus is on the tokenizer, with future releases expanding into tools for training, evaluating, and deploying structured language models.
+Alongside this, I am developing **Intuitionistic Language Models (ILM)**, a toolkit for language models based on **hierarchical tokenization**. ILM offers a structured alternative to standard tokenization by organizing tokens into multiple levels.
 
-As the project evolves, I plan to join **GitHub Sponsors** to allow those who find value in this work to support its continued development. If you’re interested in **advancing research in homomorphic encryption, structured language models, or privacy-preserving machine learning**, your future support, whether through sponsorships, contributions, or discussions, would be greatly appreciated! :rocket:
+As these projects evolve, I plan to join **GitHub Sponsors** to allow those who find value in this work to support its continued development. If you're interested in **advancing research in homomorphic encryption, structured language models, or privacy-preserving machine learning**, your future support, whether through sponsorships, contributions, or discussions, would be greatly appreciated! :rocket:
 
 
 
@@ -101,11 +101,11 @@ Looking ahead, I aim to introduce the following enhancements _(subject to fundin
 Inspired by biological encoding principles, ILM represents language with a structured set of 64 base tokens, akin to DNA's 64 codons. By reducing reliance on memorized mappings and emphasizing hierarchy, ILM provides a foundation for more interpretable and efficient language models.
 
 ### :star: **Current Focus**
-- Developing a **hierarchical tokenizer** that structures words into multi-level representations.
-- Providing a **lightweight and flexible** alternative to existing tokenization libraries.
-- Exploring applications in **language model training and structured learning**.
+- [ ] Developing a **hierarchical tokenizer** that structures words into multi-level representations.
+- [ ] Providing a **lightweight and flexible** alternative to existing tokenization libraries.
+- [ ] Exploring applications in **language model training and structured learning**.
 
 ### :rocket: **Future Goals**
-- Expanding ILM into a **complete language model toolkit** with tools for **training, evaluating, and deploying models**.
-- Refining the **hierarchical tokenization approach** to improve efficiency and interpretability.
-- Investigating **theoretical foundations and potential applications** in structured NLP models.
+- [ ] Expanding ILM into a **complete language model toolkit** with tools for **training, evaluating, and deploying models**.
+- [ ] Refining the **hierarchical tokenization approach** to improve efficiency and interpretability.
+- [ ] Investigating **theoretical foundations and potential applications** in structured NLP models.
