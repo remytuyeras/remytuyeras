@@ -101,15 +101,15 @@ Looking ahead, I aim to introduce the following enhancements _(subject to fundin
 Inspired by biological encoding principles, ILM represents language with a structured set of 64 base tokens, akin to DNA's 64 codons. By reducing reliance on memorized mappings and emphasizing hierarchy, ILM provides a foundation for more interpretable and efficient language models.
 
 ### :star: **Current focus**
-- [ ] Developing a **hierarchical tokenizer** that structures words into multi-level representations.
+- [ ] Develop a **hierarchical tokenizer** that structures words into multi-level representations.
 
-- [ ] Providing a **lightweight and flexible** alternative to existing tokenization libraries.
+- [ ] Provide a **lightweight and flexible** alternative to existing tokenization libraries.
 
-- [ ] Exploring applications in **language model training and structured learning**.
+- [ ] Explore applications in **language model training and structured learning**.
 
 ### :rocket: **Future goals**
-- [ ] Expanding ILM into a **complete language model toolkit** with tools for **training, evaluating, and deploying models**.
+- [ ] Expand ILM into a **complete language model toolkit** with tools for **training, evaluating, and deploying models**.
 
-- [ ] Refining the **hierarchical tokenization approach** to improve efficiency and interpretability.
+- [ ] Refine the **hierarchical tokenization approach** to improve efficiency and interpretability.
 
-- [ ] Investigating **theoretical foundations and potential applications** in structured NLP models.
+- [ ] Investigate **theoretical foundations and potential applications** in structured NLP models.
